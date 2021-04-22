@@ -4,6 +4,7 @@ Download videos off flograppling CDN
 Uses python 3.
 
 You need:
+- ffmpeg installed on your computer (http://jollejolles.com/install-ffmpeg-on-mac-os-x/)
 - Python 3.x installed
 - pip (package manager) installed
 
