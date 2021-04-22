@@ -3,6 +3,12 @@ Download videos off flograppling CDN
 
 Uses python 3.
 
+You need:
+- Python 3.x installed
+- pip (package manager) installed
+
+See https://www.digitalocean.com/community/tutorials/how-to-install-python-3-and-set-up-a-local-programming-environment-on-macos for help on this.
+
 First, install requirements with `pip install -Ur requirements.txt`
 Usage:
 ```
